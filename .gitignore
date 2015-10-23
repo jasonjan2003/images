@@ -2,7 +2,6 @@
 .vagrant/
 Vagrantfile
 bootstrap/
-index.html
 tools/
 
 
